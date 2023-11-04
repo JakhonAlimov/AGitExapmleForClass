@@ -1,1 +1,2 @@
 This is the first document
+I have second document
